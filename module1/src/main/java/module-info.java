@@ -1,3 +1,3 @@
 module java9.maven.module1 {
-    requires slf4j.api;
+    exports com.hyojinbae.sample.java9.maven.module1;
 }

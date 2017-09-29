@@ -15,16 +15,7 @@
         <dependency>
             <groupId>com.hyojinbae.sample.java9.maven</groupId>
             <artifactId>java9-maven-module1</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-api</artifactId>
-            <version>1.7.12</version>
-        </dependency>
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-api</artifactId>
-            <version>1.7.25</version>
+            <version>${project.version}</version>
         </dependency>
     </dependencies>
     
